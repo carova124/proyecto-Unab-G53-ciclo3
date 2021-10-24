@@ -39,7 +39,7 @@ body {
 
 .soccer {
     height: 100vh;
-    background-image: /*#2e13c5da*/ url(../imgProyectowatchSoccer/alex.1.jpg);
+    background-image: /*#2e13c5da*/ url(../imagen/alex.1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: scroll;

@@ -28,9 +28,9 @@ header {
     height: 600px;
     background: #2980B9;
     /* fallback for old browsers */
-    background: linear-gradient(to right, #8ecdf767, #6dd4fa3a, #297fb959), url(../imgProyectowatchSoccer/logo_size_invert.png);
+    background: linear-gradient(to right, #8ecdf767, #6dd4fa3a, #297fb959), url(../imagen/logo_size_invert.png);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #8ecdf767, #6dd4fa3a, #297fb959), url(../imgProyectowatchSoccer/logo_size_invert.png);
+    background: linear-gradient(to right, #8ecdf767, #6dd4fa3a, #297fb959), url(../imagen/logo_size_invert.png);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: auto;
     background-attachment: fixed;
